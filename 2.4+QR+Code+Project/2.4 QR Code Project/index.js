@@ -16,7 +16,7 @@ inquirer.prompt([
     {
         type: 'input', // Entrada de texto
         name: 'url',
-        message: 'Type de text or Url: '
+        message: 'Type in your text or Url: '
     }
 ])
 
